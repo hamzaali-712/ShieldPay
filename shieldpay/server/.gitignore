@@ -1,0 +1,14 @@
+node_modules
+.env
+.env.local
+*.log
+npm-debug.log*
+.DS_Store
+dist
+audit_results.json
+test_groq.js
+audit_ai.js
+audit_banking.js
+package-lock.json
+venv/
+.venv/
