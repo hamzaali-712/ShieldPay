@@ -81,13 +81,5 @@ Start the client:
 npm run dev
 ```
 
-## 👨‍💻 Submission for UBL Hackathon 2026
 
-Built with a focus on:
-
-- **Pakistan Context**: Local bank IBAN support and specific scam types prevalent in Pakistan.
-- **High Performance**: Sub-second AI inference via Groq.
-- **Premium UX**: Smooth animations, staggered UI loading, and modern glassmorphism design.
-
----
 © 2026 ShieldPay — Towards a Safer Digital Pakistan.
